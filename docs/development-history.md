@@ -68,44 +68,33 @@ The shift can be described as:
 
 The next stage was to explore how individual agents could work together.
 
-Instead of:
+Instead of separate, isolated agents, the architecture started to move toward connected capabilities.
 
-Agent A
-Agent B
-Agent C
-Agent D
+For example:
 
-the architecture started to move toward:
-
-Agent A
-   ↓
-Agent B
-   ↓
-Agent C
-   ↓
-Agent D
-
-For example, competitive intelligence can provide input for market intelligence, which can then support strategic analysis and content planning.
+**Competitive Intelligence → Market Intelligence → Market Strategy → Content Marketing**
 
 This creates additional value because information produced for one purpose can become useful in another context.
 
-6. From Intelligence to Strategy
+The objective is not that every agent must always feed directly into another agent, but that useful connections between capabilities can be created where they provide additional value.
+
+## 6. From Intelligence to Strategy
 
 The development then expanded from collecting information toward interpreting it.
 
 This introduced a distinction between:
 
-What is happening?
+**What is happening?**
 
 and:
 
-What does it mean for us?
+**What does it mean for us?**
 
 Market Intelligence and Market Strategy capabilities were developed to help bridge this gap.
 
 The objective is to make the system increasingly useful for decision support rather than simply information retrieval.
 
-7. Connecting Strategy and Content
+## 7. Connecting Strategy and Content
 
 The next logical connection was between intelligence, strategy and content.
 
@@ -115,9 +104,9 @@ The Content Marketing Agent therefore forms part of the broader ecosystem and ca
 
 This creates a potential flow from:
 
-Market signals → Intelligence → Strategy → Content
+**Market signals → Intelligence → Strategy → Content**
 
-8. Learning from Campaigns
+## 8. Learning from Campaigns
 
 Another important development has been the idea that the system should learn from marketing activity.
 
@@ -127,32 +116,24 @@ The objective is to capture useful observations and convert them into structured
 
 This introduces a feedback loop:
 
-Campaign
-   ↓
-Performance
-   ↓
-Analysis
-   ↓
-Learning
-   ↓
-Future planning
+**Campaign → Performance → Analysis → Learning → Future planning**
 
 The system therefore begins to move from a one-way process toward a continuous learning cycle.
 
-9. The AI Marketing Office
+## 9. The AI Marketing Office
 
 As the individual capabilities and workflows became more connected, the broader concept of an AI Marketing Office emerged.
 
 The AI Marketing Office represents the idea of combining:
 
-AI agents
-Marketing data
-Persistent context
-Automation
-Analytics
-Collaboration tools
-Marketing workflows
-Accumulated learnings
+- AI agents
+- Marketing data
+- Persistent context
+- Automation
+- Analytics
+- Collaboration tools
+- Marketing workflows
+- Accumulated learnings
 
 into a coherent operating environment.
 
@@ -160,45 +141,31 @@ The objective is not to create an autonomous marketing department.
 
 Instead, the AI Marketing Office is intended to provide a shared layer of AI capabilities that extends the capacity of the marketing team.
 
-10. From Automation to Augmentation
+## 10. From Automation to Augmentation
 
 The development has gradually shifted the focus from automation alone toward augmentation.
 
 Automation asks:
 
-What repetitive task can AI perform for us?
+**What repetitive task can AI perform for us?**
 
 Augmentation asks:
 
-How can AI increase the capability of the marketing organization?
+**How can AI increase the capability of the marketing organization?**
 
 This distinction is important.
 
 The long-term objective is not simply to automate individual tasks, but to make information, analysis and accumulated knowledge more accessible and actionable across the marketing process.
 
-11. Emerging Operating Model
+## 11. Emerging Operating Model
 
 The architecture is gradually moving toward a continuous marketing intelligence loop:
 
-Market
-  ↓
-Intelligence
-  ↓
-Strategy
-  ↓
-Content
-  ↓
-Campaign
-  ↓
-Performance
-  ↓
-Learning
-  ↓
-Strategy
+**Market → Intelligence → Strategy → Content → Campaign → Performance → Learning → Strategy**
 
 This creates the foundation for a marketing operating model in which information and learning continuously flow through the organization.
 
-12. Development Philosophy
+## 12. Development Philosophy
 
 The stack has been developed incrementally rather than through a large upfront implementation.
 
@@ -208,17 +175,17 @@ When a capability demonstrates value, it can become part of a larger workflow or
 
 This approach has several advantages:
 
-Value can be demonstrated early
-New capabilities can be tested independently
-Architecture can evolve based on actual needs
-Unnecessary complexity can be avoided
-Successful use cases can gradually become part of a larger system
+- Value can be demonstrated early
+- New capabilities can be tested independently
+- Architecture can evolve based on actual needs
+- Unnecessary complexity can be avoided
+- Successful use cases can gradually become part of a larger system
 
 The development process can therefore be summarized as:
 
-Identify a problem → experiment with AI → build a practical capability → use it → learn → connect it to the ecosystem
+**Identify a problem → experiment with AI → build a practical capability → use it → learn → connect it to the ecosystem**
 
-Current Direction
+## Current Direction
 
 The AI Marketing Stack remains an evolving project.
 
