@@ -70,7 +70,6 @@ The next stage was to explore how individual agents could work together.
 
 Instead of:
 
-```text
 Agent A
 Agent B
 Agent C
