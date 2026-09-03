@@ -5,4 +5,4 @@ An AI-enabled marketing ecosystem combining AI agents, automation, market intell
 
 The AI Marketing Stack connects marketing data, intelligence, strategy, content and campaign learnings through specialized AI agents, shared context and automation.
 
-![AI Marketing Stack Architecture](docs/architecture.png)
+![AI Marketing Stack Architecture](docs/Architecture.png)
